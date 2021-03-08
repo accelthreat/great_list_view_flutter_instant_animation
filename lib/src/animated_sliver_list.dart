@@ -10,7 +10,7 @@ import 'animated_list_child_manager.dart';
 import 'animated_list_intervals.dart';
 import 'morph_transition.dart';
 
-const _kAnimationSpeed = 500;
+const _kAnimationSpeed = 10;
 
 const _kReorderAnimationSpeed = 250;
 
