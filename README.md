@@ -1,6 +1,8 @@
 # great_list_view
 
-A Flutter package that includes a powerful, animated and reorderable list view. Just notify the list view of changes in your underlying list and the list view will automatically animate. You can also change the entire list and automatically dispatch the differences detected by the Myers alghoritm. 
+## This is just a copy of great_list_view package of https://pub.dev/packages/great_list_view by belsoledavide@gmail.com with the animation speed set to 10 ms.
+
+A Flutter package that includes a powerful, animated and reorderable list view. Just notify the list view of changes in your underlying list and the list view will automatically animate. You can also change the entire list and automatically dispatch the differences detected by the Myers alghoritm.
 You can also reorder items by simply long-tapping the item you want to move.
 
 Compared to the standard `AnimatedList`, `ReorderableListView` material widgets or other thid-party libraries, this library offers more:
